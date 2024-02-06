@@ -9,6 +9,7 @@ public class arraylist {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
+            System.out.println("");
             System.out.println("1. Element hinzufügen");
             System.out.println("2. Element löschen");
             System.out.println("3. Liste anzeigen");
